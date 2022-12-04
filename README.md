@@ -1,16 +1,16 @@
-### Hi there 👋
+### Heya!
 
-<!--
-**ignaspa/ignaspa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ignas (pronounced: "ig-nUs", pronouns: he/him), and I'm a software developer.
 
-Here are some ideas to get you started:
+- 💼 I'm currently working on a team [tackling Buyer Fraud](https://squareup.com/us/en/payments/risk-manager) at [Square](https://squareup.com/us/en).
+- 🎓 I recently graduated from the [University of Toronto](https://www.utoronto.ca/) with a BSc in Computer Science
+- 🤔 I'd be happy to hear about
+  - good technical books on software engineering
+  - good books on urban planning / transit 
+  - ... honestly good books in general haha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](https://www.linkedin.com/in/ignas-panero-armoska/)
+🔗 [Instagram](https://www.instagram.com/ignor.nt/)
+🔗 [Email](mailto:ignasgithub.bvmv1@simplelogin.com)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ignaspa)
