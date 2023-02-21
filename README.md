@@ -7,7 +7,9 @@ My name is Ignas (pronounced: "ig-nUs", pronouns: he/him), and I'm a software de
 - 👀 I'd be happy to hear about
   - good technical books on software engineering
   - good books on urban planning / transit 
-  - ... honestly good books in general haha
+  - good books on film
+  - good books on architecture
+  - ... honestly good books in general
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ignas-panero-armoska/)
 🔗 [Instagram](https://www.instagram.com/ignor.nt/)
