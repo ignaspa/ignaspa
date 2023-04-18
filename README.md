@@ -14,5 +14,3 @@ My name is Ignas (pronounced: "ig-nUs", pronouns: he/him), and I'm a software de
 🔗 [LinkedIn](https://www.linkedin.com/in/ignas-panero-armoska/)
 🔗 [Instagram](https://www.instagram.com/ignor.nt/)
 🔗 [Email](mailto:ignasgithub.bvmv1@simplelogin.com)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ignaspa)
