@@ -1,4 +1,4 @@
-### Heya!
+### Hey!
 
 My name is Ignas (pronounced: "ig-nUs", pronouns: he/him), and I'm a software developer.
 
@@ -12,5 +12,4 @@ My name is Ignas (pronounced: "ig-nUs", pronouns: he/him), and I'm a software de
   - ... honestly good books in general
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ignas-panero-armoska/)
-🔗 [Instagram](https://www.instagram.com/ignor.nt/)
 🔗 [Email](mailto:ignasgithub.bvmv1@simplelogin.com)
